@@ -60,5 +60,5 @@ The project uses a combination of regression techniques to predict the spread of
 - Train and evaluate the models using the provided code.
 - Modify parameters or add new models to improve predictions.
  ## Contributors
-Kawthar BOUKAHIL
-Abderraouf SAHEB
+- Kawthar BOUKAHIL
+- Abderraouf SAHEB
